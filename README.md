@@ -3,14 +3,20 @@
 
 # Finance Tracker 📋
 
-A finance tracker application built using Python's tkinter module. It allows the user to keep track of their income and expenses, and visualize their balance through a pie chart. 🥧📊
-Utilizing **customtkinter** gives the application a visual edge over applications developed with tkinter only! 🎨
+Welcome to the Finance Tracker project! This project is a great place for beginners looking to make their first contributions to open source. We're using Python's `tkinter` module, with the aim of turning this into a web application. All skill levels are welcome!
 
-<p align="center">
-<img width="792" alt="preview" src="https://github.com/otahina/python-mini-project/assets/108225969/eaa973ee-b9f8-4f1f-8367-066a5462d167">
-<img width="786" alt="pie_chart" src="https://github.com/otahina/python-mini-project/assets/108225969/8cb73919-106a-4a3d-acdb-20ae38f9fd07">
+* Implement a database to persist user data. This addition will significantly improve the application's utility by allowing users to maintain their finance records across sessions.
+* Migrate the application to a web-based platform using frameworks like Django or Flask. This shift would increase the accessibility of the application and provide opportunities to explore web development principles and practices.
 
-## Prerequisites ⚙️
+## Getting Started 🏁
+
+1. **Fork this repository.** This creates a copy of this repository in your own GitHub account.
+
+2. **Clone the repository.** This downloads the repository to your local machine. You can do this by clicking the 'Code' button at the top of this page and then copying the HTTPS URL. Then, open your terminal and run the following git command:
+
+3. **Create a branch.** Change to the directory of the repository in your terminal (using `cd`) and then create a new branch using the git command:
+
+## Set up ⚙️ readme Need to be changed here
 
 Before you begin, ensure you have met the following requirements:
 
@@ -43,8 +49,6 @@ python3 main.py
 
 This application serves as an excellent starting point for beginners. Its simplicity allows for easy understanding, yet it provides ample room for enhancement!
 Beginner ➡️ Advanced
-* Implement a database to persist user data. This addition will significantly improve the application's utility by allowing users to maintain their finance records across sessions.
-* Migrate the application to a web-based platform using frameworks like Django or Flask. This shift would increase the accessibility of the application and provide opportunities to explore web development principles and practices.
 
 ## *Author Name* 👩🏻‍💻
 
