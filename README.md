@@ -14,7 +14,9 @@ Welcome to the Finance Tracker project! This project is a great place for beginn
 
 2. **Clone the repository.** This downloads the repository to your local machine. You can do this by clicking the 'Code' button at the top of this page and then copying the HTTPS URL. Then, open your terminal and run the following git command:
 
-3. **Create a branch.** Change to the directory of the repository in your terminal (using `cd`) and then create a new branch using the git command:
+git clone https://github.com/<your-github-username>/finance-tracker-project-for-beginners.git
+
+4. **Create a branch.** Change to the directory of the repository in your terminal (using `cd`) and then create a new branch using the git command:
 
 ## Set up ⚙️ readme Need to be changed here
 
