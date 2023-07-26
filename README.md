@@ -14,9 +14,48 @@ Welcome to the Finance Tracker project! This project is a great place for beginn
 
 2. **Clone the repository.** This downloads the repository to your local machine. You can do this by clicking the 'Code' button at the top of this page and then copying the HTTPS URL. Then, open your terminal and run the following git command:
 
+```
 git clone https://github.com/<your-github-username>/finance-tracker-project-for-beginners.git
+```
+## Making Changes 👩‍💻👨‍💻
 
-4. **Create a branch.** Change to the directory of the repository in your terminal (using `cd`) and then create a new branch using the git command:
+Make changes to the files in the repository. Remember to keep your changes as focused and concise as possible. 
+
+## Commit and Push 📌
+
+Once you've added new code, you need to commit your changes with a clear message. Run:
+
+```
+git commit -m "Your detailed commit message"
+```
+Then, push your changes to your GitHub account with:
+```
+git push origin main
+```
+
+## Making a Pull Request (PR) 📫
+
+1. Go to your repository on GitHub and click on the "Compare & Pull Request" button.
+
+2. Write a description about your contribution. Be sure to use the related issue number if there is a related issue.
+
+3. Click "Create Pull Request".
+
+## Creating Issues 🐞
+
+If you find a bug or want to suggest a new feature:
+
+1. Check if there is a similar issue already open.
+
+2. If there is, add your comments or suggestions there.
+
+3. If not, create a new issue, providing as much detail as you can.
+
+Remember, the more specific your issue or pull request, the easier it will be for others to understand and help you.
+
+We're excited to see your contributions and to learn and grow together in this open-source journey!
+
+---
 
 ## Set up ⚙️ readme Need to be changed here
 
