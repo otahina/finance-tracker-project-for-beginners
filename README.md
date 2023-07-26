@@ -55,6 +55,10 @@ Remember, the more specific your issue or pull request, the easier it will be fo
 
 We're excited to see your contributions and to learn and grow together in this open-source journey!
 
+## Questions? 🤔
+
+If you have any questions or issues, don't hesitate to reach out. We're here to help!
+
 ---
 
 ## Set up ⚙️ readme Need to be changed here
